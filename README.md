@@ -12,7 +12,7 @@
 </p>
 <p align="center" width="100%">
     <a href="https://discord.com/users/442224069899976707">
-        <img height="175px" src="https://lanyard.cnrad.dev/api/442224069899976707?theme=dark&amp;hideDiscrim=true" alt="discord-status" target="_blank">
+        <img height="175px" src="https://lanyard.cnrad.dev/api/442224069899976707?theme=dark&amp;hideDiscrim=true" alt="discord-status">
     </a>
 </p>
 <h6 align="left">wuv u~</h6>
