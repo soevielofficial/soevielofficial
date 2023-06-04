@@ -1,6 +1,6 @@
 <hr>
 <p align="center" width="100%">
-    <img height="175px" src="https://cdn.discordapp.com/attachments/862008488502755330/1074931143683616889/Discord_Banner.png" alt="welcome"></a>
+    <img height="175px" src="https://cdn.discordapp.com/attachments/862008488502755330/1114953193613443112/image_github.png" alt="welcome"></a>
 </p>
 <!-- <p align="center" width="100%">
     <img height="175px" src="https://i.imgur.com/W6mUoiN.png" alt="profile">
