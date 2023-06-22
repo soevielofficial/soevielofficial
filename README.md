@@ -2,9 +2,6 @@
 <p align="center" width="100%">
     <img height="175px" src="https://cdn.discordapp.com/attachments/862008488502755330/1115241341253853256/image_github.png" alt="welcome"></a>
 </p>
-<!-- <p align="center" width="100%">
-    <img height="175px" src="https://i.imgur.com/W6mUoiN.png" alt="profile">
-</p> -->
 <hr>
 <p align="center" width="100%">
     <img height="160px" src="https://github-readme-stats-soevielofficial.vercel.app/api?username=soevielofficial&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="github-stats">
