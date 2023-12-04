@@ -4,8 +4,8 @@
 </p>
 <hr>
 <p align="center" width="100%">
-    <img height="160px" src="http://soevielofficial.net/api?username=soevielofficial&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="github-stats">
-    <img height="160px" src="http://soevielofficial.net/api/top-langs/?username=soevielofficial&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_progress=false&hide=html" alt="github-stats">
+    <img height="160px" src="https://www.soevielofficial.net/api?username=soevielofficial&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="github-stats">
+    <img height="160px" src="https://www.soevielofficial.net/api/top-langs/?username=soevielofficial&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_progress=false&hide=html" alt="github-stats">
 </p>
 <p align="center" width="100%">
     <a href="https://discord.com/users/442224069899976707">
