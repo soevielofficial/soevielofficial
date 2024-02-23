@@ -1,6 +1,9 @@
 <hr>
 <p align="center" width="100%">
-    <img height="175px" src="https://cdn.discordapp.com/attachments/862008488502755330/1115241341253853256/image_github.png" alt="welcome"></a>
+    <img height="128px" src="https://cdn.7tv.app/emote/6319eda18cf0978e2955940a/4x.webp"></a>
+    <img height="128px" src="https://cdn.7tv.app/emote/65c2a83580e016b01c359f65/4x.webp"></a>
+    <img height="128px" src="https://cdn.7tv.app/emote/63f8101de5d9925da811ed58/4x.webp"></a>
+    <img height="128px" src="https://cdn.7tv.app/emote/631e5c605a703c4a98db593c/4x.webp"></a>
 </p>
 <hr>
 <p align="center" width="100%">
