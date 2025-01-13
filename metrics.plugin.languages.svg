@@ -21,13 +21,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="436.51126116064717" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="436.51126116064717" y="0" width="23.06113429196339" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="459.5723954526105" y="0" width="0.22491037254229196" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.7973058251528" y="0" width="0.18138819848762627" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="459.9786940236404" y="0" width="0.013570572639303655" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="459.9922645962797" y="0" width="0.0063050559072200234" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.9985696521869" y="0" width="0.00143034781302765" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="435.51896888674315" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="435.51896888674315" y="0" width="24.054466058616423" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="459.57343494535957" y="0" width="0.2243636227407105" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.7977985681003" y="0" width="0.18094724967583375" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="459.97874581777614" y="0" width="0.013537583018531538" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="459.9922834007947" y="0" width="0.006289728521349528" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.99857312931607" y="0" width="0.001426870684008986" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -40,7 +40,7 @@
                             </div>
                             <small>
                                 <div>295 MB</div>
-                                <div>94.89%</div>
+                                <div>94.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -89,8 +89,8 @@
                                 C
                             </div>
                             <small>
-                                <div>15.6 MB</div>
-                                <div>5.01%</div>
+                                <div>16.3 MB</div>
+                                <div>5.23%</div>
                             </small>
                         </div>
                         <div class="field language details">
